@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T01:57:27.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.5" etag="vkcNUriVmGWrejLibG88" type="github"><diagram id="FhHg46y5ClcDAhNEUa2y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-02T02:01:12.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="S_cWkJF5o0pwOfJgw16W" version="15.6.5" type="github">
+  <diagram id="FhHg46y5ClcDAhNEUa2y" name="第 1 页">
+    <mxGraphModel dx="2062" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-1" value="预售" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-3" value="补货延迟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-4" value="卖的好" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="54" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-6" value="延迟一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-7" value="&lt;span&gt;延迟N次&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OBCpvcjgI4hdnxrH9U_M-8" value="&lt;ul&gt;&lt;li&gt;同一个产品怎么区分补货延迟和卖得好&lt;/li&gt;&lt;li&gt;延迟补货一次和N次邮件发送应该怎么处理&lt;/li&gt;&lt;li&gt;邮件是在什么时候触发发送&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="310" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
